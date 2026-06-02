@@ -1,2 +1,4 @@
-# fundingstability
+# U.S. Geological Survey
+# Groundwater and Streamflow Information Program
+# Endangered, Discontinued and Rescued Streamgages Mapper
 This mapper identifies U.S. Geological Survey (USGS) streamgages that are in danger of being discontinued or converted to a reduced level of service due to lack of funding, gages that already have been discontinued, and gages that have been ‘rescued’ by a new funding source. Efforts are underway to find a new funding source for each endangered streamgage; however, if a new funding source is not identified for an at-risk gage, it will be discontinued. Historic data will remain accessible for discontinued gages. Discontinued and rescued streamgages are only displayed for the last thirteen months. If you have questions about continued operations for a specific streamgage, please refer to the contact information in the table at the bottom of the page. 
